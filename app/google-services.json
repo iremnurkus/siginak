@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "872667277485",
+    "project_id": "siginak-2f947",
+    "storage_bucket": "siginak-2f947.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872667277485:android:4925d580e491d88437be24",
+        "android_client_info": {
+          "package_name": "com.example.siginak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc5N9zi1TX1sXsfCYdNmoqSik1BObi_Rc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
